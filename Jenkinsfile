@@ -9,9 +9,9 @@ pipeline {
           }
         }
 
-        stage('message') {
+        stage('blabla') {
           steps {
-            echo 'Hello World'
+            echo 'BlaBla'
           }
         }
 
