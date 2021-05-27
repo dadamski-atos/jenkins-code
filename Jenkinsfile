@@ -9,9 +9,9 @@ pipeline {
           }
         }
 
-        stage('blabla') {
+        stage('newCommint') {
           steps {
-            echo 'BlaBla'
+            echo 'To jest nowy komin'
           }
         }
 
